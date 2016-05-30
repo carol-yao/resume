@@ -1,0 +1,44 @@
+body {
+  font-family: Arial;
+}
+
+.content {
+  display: inline-block;
+  float: right;
+  width: 60%;
+  padding: 20px;
+}
+
+.contact {
+  display: inline-block;
+  width: 30%;
+  padding: 20px 0px 0px 90px;
+  position: fixed;
+}
+
+p {
+  max-width: 500px;
+}
+
+li {
+  max-width: 500px;
+}
+
+img {
+  width: 30%;
+  border-radius: 100%;
+
+}
+
+h2 {
+  color: #2c6072;
+}
+
+a:link {
+  text-decoration: none;
+  color: #2c6072;
+}
+
+a:hover {
+  color:#23a463;
+}
